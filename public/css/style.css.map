@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AACI,MADE,CACF,KAAK,CAAC;EACF,UAAU,EAAE,KAAK;CACpB;;ACHL,AAKoB,IALhB,CACA,UAAU,CACN,IAAI,CACA,IAAI,CACA,KAAK,CACD,CAAC,CAAC;EACE,KAAK,EAAE,kBAAkB;EACzB,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/header/_header.scss",
+        "../scss/section/_dua.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
